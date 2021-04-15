@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IoT_sender_receiver_1"
